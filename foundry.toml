@@ -4,7 +4,8 @@ out = 'out'
 libs = ['lib', "node_modules"]
 
 [fmt]
-line_length = 120
+line_length = 410
+
 multiline_func_header = "params_first"
 number_underscore = "thousands"
 
